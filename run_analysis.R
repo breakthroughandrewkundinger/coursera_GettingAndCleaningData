@@ -1,5 +1,7 @@
 
 # highlight code from START line to END line and press run in r studio. 
+# https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+    # assumes that above UCI HAR Dataset is extracted to working directory location. 
 
 ###### START #########
 
