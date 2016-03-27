@@ -13,8 +13,11 @@ The R script called run_analysis.R should do the following:
 
 Steps to work on this course project
 1.	Download the data source and put the UCI HAR Dataset into your working directory location. (apply the getwd() command to see the path for your working directory)
+
 2.	Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd() function in RStudio.
+
 3.	Copy paste the code in the run_analysis.R file listed on this page and paste into a new script. Select all (control + a) and then press run. 
+
 4.	After loading the file, the tidy_data.txt file will appear in your working directory location. 
 
 Other Notes
